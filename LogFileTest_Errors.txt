@@ -1,0 +1,969 @@
+CntNr;CntDelayMain;CntLatchMain;CntDelayDump;CntLatchDump;Event A;Event B;KntReg;DACA;DACB;DACC;DACD;Date
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:36
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:37
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:38
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:39
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:40
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:41
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:42
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:43
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:44
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                Error CntA: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                Error CntB: Read MilBus Timeout 06.03.2008 11:40:45
+1;3C;0;4B;0;0;0;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:45
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:46
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:47
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+                                                                                                                                                                                                                                                ERROR KickerCnt Rd: Read MilBus Timeout 06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:48
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:49
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:50
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:51
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:52
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:53
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EB;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
+1;3C;EA;4B;52;8;8;222C;NS;NS;NS;NS;06.03.2008 11:40:54
